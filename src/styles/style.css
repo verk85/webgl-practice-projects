@@ -1,6 +1,9 @@
-
-canvas {
+html,
+body {
+  margin: 0;
+  overflow: hidden;
+}
+#webgl-canvas {
   display: block;
-  margin: 0 auto;
-  border: 1px solid black;
+  margin: 0;
 }
